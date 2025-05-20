@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seldio70
-- 👀 I’m interested in ... learning java
+- 👀 I’m interested in ... learning React
 - 🌱 I’m currently learning ... computer sience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... seldiozace70@gmail.com
